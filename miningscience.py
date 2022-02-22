@@ -1,9 +1,9 @@
-# Primera funcion 
+# Comandos de la primera funcion 
 def download_pubmed (keyword):
     from Bio import Entrez
     from Bio import SeqIO
     from Bio import GenBank 
-    Entrez.email = 'bryan.villacres@est.ikiam.edu.ec'
+    Entrez.email = 'mariana.silva@est.ikiam.edu.ec'
     handle = Entrez.esearch(db='pubmed',
                         sort='relevance',
                         retmax='200',
@@ -12,7 +12,7 @@ def download_pubmed (keyword):
     results = Entrez.read(handle)
     id_list = results["IdList"]
     ids = ','.join(id_list)
-    Entrez.email = 'bryan.villacres@est.ikiam.edu.ec'
+    Entrez.email = 'mariana.silva@est.ikiam.edu.ec'
     handle = Entrez.efetch(db='pubmed',
                        retmode='xml',
                        id=ids)
@@ -20,7 +20,7 @@ def download_pubmed (keyword):
     return (lista_id) 
 
 
-# Segunda función 
+#  Comandos de la segunda función 
 def mining_pubs(tipo, archivo):
     import csv
     import re
