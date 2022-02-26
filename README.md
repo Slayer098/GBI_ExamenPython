@@ -1,2 +1,0 @@
-# GBI_ExamenPython
-Examen
