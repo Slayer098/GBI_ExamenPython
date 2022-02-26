@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<!-- saved from url=(0103)https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-234601-0165-12222045-p1m -->
+<html class="js flexbox canvas canvastext no-touch rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent no-applicationcache translated-ltr" lang="es"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+   
+  <title>Resultados &lt; MÚSCULO &lt; Alineación de secuencias múltiples &lt; EMBL-EBI</title> 
+  <meta name="description" content="MUSCLE stands for MUltiple Sequence Comparison by Log-Expectation. MUSCLE is claimed to achieve both better average accuracy and better speed than ClustalW2 or T-Coffee, depending on the chosen options. "> 
+  <meta name="keywords" content="bioinformatics, europe, institute"> 
+  <meta name="author" content="EMBL-EBI"> 
+  <!-- Mobile viewport optimized: j.mp/bplateviewport --> 
+  <meta name="viewport" content="width=device-width,initial-scale=1"> 
+  <!-- All JavaScript at the bottom, except for Modernizr / Respond.
+       Modernizr enables HTML5 elements & feature detects; Respond is a polyfill for min/max-width CSS3 Media Queries
+       For optimal performance, use a custom Modernizr build: www.modernizr.com/download/ --> 
+  <!-- Full build --> 
+  <!-- <script src="//www.ebi.ac.uk/web_guidelines/js/libs/modernizr.minified.2.1.6.js"></script> --> 
+  <!-- custom build (lacks most of the "advanced" HTML5 support --> 
+  <script src="./alineación_files/modernizr.custom.49274.js.descarga"></script> 
+  <link rel="stylesheet" href="./alineación_files/foundation.css" type="text/css" media="all"> 
+  <link rel="stylesheet" href="./alineación_files/ebi-global.css" type="text/css" media="all"> 
+  <link rel="stylesheet" href="./alineación_files/fonts.css" type="text/css" media="all"> 
+  <link rel="stylesheet" href="./alineación_files/theme-embl-petrol.css" type="text/css" media="all"> 
+  <style type="text/css">div.downtime-message { font-size:100%; padding:9px } #contentsarea div.downtime-message { padding:0px } div.downtime-message-inner { font-family: helvetica, sans-serif; padding:9px; border: 1px solid #CCC } body.section-home.front div.downtime-message-inner { border: none; } div.downtime-message p { margin:0 } div.downtime-message p.downtime-title { font-size: 1rem; } div.downtime-message p.downtime-message span.downtime-note { font-weight:bold } div.downtime-message p.downtime-message strong { color:#e33e3e; font-weight:bold }div.downtime-message p.downtime-message em { font-style:italic }</style> 
+  <script src="./alineación_files/jquery-3.3.1.js.descarga" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script> 
+  <script>$(function(){$("#newAnnouncement").load("/Tools/common/tools/help/service_announcement.html");});</script> 
+ <meta class="foundation-mq"><script src="./alineación_files/5_ebiFrameworkNotificationBanner.js.descarga"></script><link type="text/css" rel="stylesheet" charset="UTF-8" href="./alineación_files/translateelement.css"><script src="./alineación_files/5_ebiFrameworkNotificationBanner.js.descarga"></script></head> 
+ <body class="level2" style="padding-bottom: 72px;">
+  <!-- add any of your classes or IDs --> 
+  <div id="skip-to"> 
+   <ul> 
+    <li><a href="https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-234601-0165-12222045-p1m#content"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Saltar al contenido principal</font></font></a></li> 
+    <li><a href="https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-234601-0165-12222045-p1m#local-nav"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Saltar a la navegación local</font></font></a></li> 
+    <li><a href="https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-234601-0165-12222045-p1m#global-nav"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Saltar al menú de navegación global de EBI</font></font></a></li> 
+    <li><a href="https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-234601-0165-12222045-p1m#global-nav-expanded"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Saltar al menú de navegación global ampliado de EBI (incluye todas las subsecciones)</font></font></a></li> 
+   </ul> 
+  </div> 
+  <div data-sticky-container="" class="sticky-container" style="height: 209.188px;"> 
+   <div id="local-masthead" data-sticky="tvp1sp-sticky" data-sticky-on="large" data-top-anchor="180" data-btm-anchor="300000" class="sticky is-stuck is-at-top" data-resize="local-masthead" style="max-width: 1263.33px; margin-top: 1em; top: 0px; bottom: auto; left: 0px;"> 
+    <header> 
+     <div id="global-masthead" class="clearfix"> 
+      <a href="https://www.ebi.ac.uk/" title="Ir a la página de inicio de EMBL-EBI"><span class="ebi-logo"></span></a> 
+      <nav> 
+       <div class="row"> 
+        <ul id="global-nav" class="menu"> 
+         <li id="home-mobile" class=""><a href="https://www.ebi.ac.uk/"></a></li> 
+         <li id="home" class="active"><a href="https://www.ebi.ac.uk/"><i class="icon icon-generic" data-icon="H"></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EMBL-EBI</font></font></a></li> 
+         <li class="first active" id="services"><a href="https://www.ebi.ac.uk/services"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Servicios</font></font></a></li> 
+         <li id="research"><a href="https://www.ebi.ac.uk/research"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Investigación</font></font></a></li> 
+         <li id="training"><a href="https://www.ebi.ac.uk/training"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacitación</font></font></a></li> 
+         <li id="industry"><a href="https://www.ebi.ac.uk/industry"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Industria</font></font></a></li> 
+         <li id="about" class="last"><a href="https://www.ebi.ac.uk/about"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sobre nosotros</font></font></a></li> 
+         <li id="search"> <a href="https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-234601-0165-12222045-p1m#" data-toggle="search-global-dropdown" aria-controls="search-global-dropdown" data-is-focus="false" data-yeti-box="search-global-dropdown" aria-haspopup="true" aria-expanded="false"><i class="icon icon-functional" data-icon="1"></i> <span class="show-for-small-only"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Búsqueda</font></font></span></a> 
+          <div id="search-global-dropdown" class="dropdown-pane" data-dropdown="n4vqzt-dropdown" data-options="closeOnClick:true;" aria-hidden="true" data-yeti-box="search-global-dropdown" data-resize="search-global-dropdown" aria-labelledby="f1rmaa-dd-anchor"><form id="global-search" name="global-search" action="https://www.ebi.ac.uk/ebisearch/search.ebi" method="GET" class="large-8 large-push-2"><fieldset><div class="input-group"><input type="text" name="query" id="global-searchbox" class="input-group-field" placeholder="Buscar todo de EMBL-EBI"><div class="input-group-button"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><input type="submit" name="submit" value="Búsqueda" class="button"></font></font></font></font><input type="hidden" name="db" value="allebi" checked="checked"><input type="hidden" name="requestFrom" value="global-masthead" checked="checked"></div></div></fieldset> </form></div> </li> 
+         <li class="float-right show-for-medium embl-selector"> <button class="button float-right" type="button" data-toggle="embl-dropdown" aria-controls="embl-dropdown" data-is-focus="false" data-yeti-box="embl-dropdown" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hinxton</font></font></button> </li>
+        </ul> 
+       </div> 
+      </nav> 
+     <div><div id="embl-dropdown" class="embl-dropdown dropdown-pane bottom" data-dropdown="st0t1v-dropdown" aria-hidden="true" data-yeti-box="embl-dropdown" data-resize="embl-dropdown" aria-labelledby="2b78oy-dd-anchor"><p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EMBL-EBI en Hinxton, Cambridge, es una de las seis </font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ubicaciones de EMBL en toda Europa. </font></font><br> <a href="https://www.ebi.ac.uk/about" class="small readmore"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Más sobre EMBL-EBI</font></font></a></p><h6><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Conéctese a otra ubicación EMBL</font></font></h6><div class="small-collapse padding-bottom-large clearfix"><div class="columns small-5 padding-bottom-medium"><a href="http://www.embl.de/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Heidelberg</font></font></a><div class="small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Laboratorio principal</font></font></div></div><div class="columns small-7 padding-bottom-medium"><a href="http://www.embl.es/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Barcelona</font></font></a><div class="small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Biología de tejidos y modelado de enfermedades.</font></font></div></div><div class="columns small-5 padding-bottom-medium"><a href="http://www.embl.fr/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Grenoble</font></font></a><div class="small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">biología estructural</font></font></div></div><div class="columns small-7 padding-bottom-medium"><a href="http://www.embl-hamburg.de/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hamburgo</font></font></a><div class="small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">biología estructural</font></font></div></div><div class="columns small-5 padding-bottom-medium"><a href="http://www.embl.it/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Roma</font></font></a><div class="small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Epigenética y neurobiología</font></font></div></div><div class="columns small-7 padding-bottom-medium"><a href="http://embl.org/" class="readmore"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Más sobre EMBL</font></font></a></div></div></div></div></div> 
+     <!--2nd div of header--> 
+     <div id="local-masthead" class="masthead row"> 
+      <!-- local-title --> 
+      <!-- NB: for additional title style patterns, see http://www.ebi.ac.uk/web/style/patterns --> 
+      <div class="grid_24 alpha" id="local-title"> 
+       <h1><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MÚSCULO</font></font></h1> 
+      </div> 
+      <!-- /local-title --> 
+      <!-- local-nav --> 
+      <nav> 
+       <ul id="local-nav" class="dropdown menu float-left" data-description="navigational" role="menubar" data-dropdown-menu="3rsi6u-dropdown-menu">     
+        <li role="menuitem"><a href="https://www.ebi.ac.uk/Tools/msa/muscle/" title="Formulario de entrada para enviar nuevos trabajos" tabindex="0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Formulario de entrada</font></font></a></li>
+        <li role="menuitem"><a href="https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/MUSCLE+Help+and+Documentation#MUSCLEHelpandDocumentation-WebServices" title="Página de acceso programático para muscle"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">servicios web</font></font></a></li>
+        <li role="menuitem"><a href="https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/MUSCLE+Help+and+Documentation" title="Página de ayuda para músculo"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ayuda y documentación</font></font></a></li>
+        <li role="menuitem"><a href="https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/Bioinformatics+Tools+FAQ" title="Preguntas frecuentes sobre herramientas bioinformáticas"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Preguntas frecuentes sobre herramientas bioinformáticas</font></font></a></li>
+       <li class="extra-items-menu is-dropdown-submenu-parent opens-right" style="display: none;" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="Also in this section"><a href="https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-234601-0165-12222045-p1m#">Also in this section</a><ul class="menu submenu is-dropdown-submenu first-sub vertical" data-submenu="" aria-hidden="true" role="menu"><li class="bug-fix-placeholder is-dropdown-submenu-parent is-submenu-item is-dropdown-submenu-item opens-right" style="display:none !important;" role="menuitem" aria-haspopup="true" aria-expanded="false" aria-label="A workaround"><a href="https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-234601-0165-12222045-p1m#">A workaround</a> <ul class="menu submenu is-dropdown-submenu vertical" data-submenu="" aria-hidden="true" role="menu"> <li role="menuitem" class="is-submenu-item is-dropdown-submenu-item"><a href="https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-234601-0165-12222045-p1m#">for a bug where the dropdown menu fails sometimes unless there are two submenus in the submenu</a></li></ul>  </li></ul></li></ul> 
+       <ul class="dropdown menu float-right" data-description="navigational"> 
+        <li> <a id="feedback" title="Solicitar ayuda/soporte o enviar comentarios" href="https://www.ebi.ac.uk/support/index.php" class="icon icon-generic" data-icon="\"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Realimentación</font></font></a> </li> 
+       </ul> 
+      </nav> 
+      <!-- /local-nav --> 
+     </div> 
+    </header> 
+   </div> 
+   <!-- div close of id="local-masthead"--> 
+  </div>
+  <!-- div close of data-sticky-container"--> 
+  <!-- div of content--> 
+  <div id="content" role="main" class="row"> 
+   <!-- Suggested layout containers --> 
+   <nav id="breadcrumb"> 
+    <p style="margin-bottom: 8px; margin-top:-6px; margin-left: -2px; padding-bottom: 12px"><a href="https://www.ebi.ac.uk/Tools/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Herramientas</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> &gt;   </font></font><a href="https://www.ebi.ac.uk/Tools/msa"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Alineación de secuencias múltiples</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> &gt; MÚSCULO</font></font></p> 
+   </nav> 
+   <div id="newAnnouncement">    <div class="downtime-message row" id="newAnnouncement" style="margin:0px; display: none;">
+        <div class="downtime-message-inner callout">
+            <h5 class="downtime-title">Service Announcement</h5>
+            <p class="downtime-message"><span class="downtime-note"></span>
+                We will be carrying out essential maintenance on Wednesday 13th November, between 10.30 and 12.30 GMT.
+                Your results may be temporarily unavailable and some services may be slower.
+                Apologies for any inconvenience caused.
+                If you have any concerns, please contact us via <a href="https://www.ebi.ac.uk/support/WebServices" target="_blank">support</a>.
+            </p>
+        </div>
+    </div></div> 
+   <!-- tabs and headers for the result pages --> 
+   <section id="tabsandheaders">
+    <h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Resultados para trabajo muscle-I20220225-234601-0165-12222045-p1m</font></font></h2> 
+    <ul class="actionPanel" id="actions"> 
+     <li> <a class="jd_button selected" href="https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-234601-0165-12222045-p1m&amp;analysis=alignments" id="alignments" name="alignments"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">alineaciones</font></font></a> </li> 
+     <li> <a class=" jd_button" href="https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-234601-0165-12222045-p1m&amp;analysis=summary" id="summary" name="summary"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Resumen de los resultados</font></font></a> </li> 
+     <li> <a class=" jd_button" href="https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-234601-0165-12222045-p1m&amp;analysis=phylotree" id="phylotree" name="phylotree"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Árbol filogenético</font></font></a> </li> 
+     <li> <a class=" jd_button" href="https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-234601-0165-12222045-p1m&amp;analysis=viewers" id="viewers" name="viewers"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Visores de resultados</font></font></a> </li> 
+     <li> <a class=" jd_button" href="https://www.ebi.ac.uk/Tools/services/web/toolresult.ebi?jobId=muscle-I20220225-234601-0165-12222045-p1m&amp;analysis=details" id="details" name="details"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Detalles de envío</font></font></a> </li> 
+    </ul>
+   </section> 
+   <div id="leftandmaincontent"> 
+    <!-- left side content for updating graphical outputs --> 
+     
+    <section id="maincontent" class="omega grid_24">
+     <div id="ebi_mainContent">  
+      <a name="content"></a>     
+      <div class="actionBox"> 
+       <ul class="actionPanel" id="alignmentActions"> 
+        <li> <a class=" jd_button shadow" href="https://www.ebi.ac.uk/Tools/services/rest/muscle/result/muscle-I20220225-234601-0165-12222045-p1m/aln-clustalw" id="alnFile" name="alnFile"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Descargar archivo de alineación</font></font></a> </li> 
+       </ul> 
+      </div> 
+      <br> 
+      <pre id="alignmentContent" xml:space="preserve"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CLUSTAL alineación de secuencias múltiples por MUSCLE (3.8)</font></font><font></font>
+<font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 ATGGCTGTCCCTCTTGTTCTTCTGTTCCTTCTAGGGCTTTGGCTGGACCCCAAGGGAGAG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 ATGGCTGCCCCTTTTATTCTTCTATTCTTTCTAGGACTTTGGCTGGACCCCAAGGCAGAG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 A------------------------------------------ -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 A----CACTATACTTACTATTTGGTGCCT-------------------------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 A----CACTATACTTACTATTTGGTGCCT-------------------------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 A----CACTATATTTACTATTTGGTGCCT-------------------------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 A----CACTATATTTACTATTTGGTGCCT-------------------------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                     *                                                           </font></font><font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 GTGGATGCATTAAAGGCTATGGACACAACTCCTCGCCTCTGGATCGAGACTGAATCCACA</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 GTGGATGCATTATTGGCTATGGAAACAACTCCTCGCCTCTGGATCGAGACCGAATCCCCA</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 GAGCAGGCATAACTGGC-ACTGCCCTAAGTATTCTCATTCGAGCAGAA------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 GAGCAGGCATAACTGGC-ACTGCCCTAAGTATTCTCATTCGAGCAGAA------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 GAGCAGGCATAACTGGC-ACTGCCCTAAGTATTCTCATTCGAGCAGAA------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 GAGCAGGCATAACTGGC-ACGGCCCTAAGTATTCTCATTCGAGCAGAA------------</font></font><font></font>
+                                                                                                 <font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 TCCACTCCCTGGACCAATGTGACTCTCCAGTGTGTGGCAACCAGTACCCAGGTGCTGAGC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 TCCACTCCTTGGACCAATGTGACTCTCCAGTGTGTGGCAACCAATACCGAGGCCCTGAGC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 --------CGTGGTCAACCAGGTACTTTAATTGGTGATGATCAA----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 --------CGTGGTCAACCAGGTACTTTAATTGGTGATGATCAA----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 --------CTTGGTCAACCAGGTACTTTAATTGGTGATGATCAA----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 --------CTTGGTCAACCAGGTACTTTAATTGGTGATGATCAA----------------</font></font><font></font>
+                                                                                                 <font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 TTCCAGCTGTGGAAAGACGGGGTGCTCTTCTCCAATCTCTCTCCCATGGGCCCCGTTGGC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 TTCCAGCTGTGGAAAGACGGGGAGCTCCTCTCTACTCTCCCTCCCATGGGCCTCGTTGGC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -------------TGGC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 ------------ATTTACAATGTGATCGTAACCGCCCATGCTTTCATTATAATCTTTTTT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 ------------ATTTACAATGTGATCGTAACCGCCCATGCTTTCATTATAATCTTTTTT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 ------------ATTTACAATGTGATTGTAACCGCCCATGCTTTCATTATAATCTTTTTT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 ------------ATTTACAATGTGATTGTAACCGCCCATGCTTTCATTATAATCTTTTTC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                                                                             *   </font></font><font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 A-AGTTCTGGCTGGGGCCGGTGACAGCCGACAACAGGGGCATTTATCGTTGCCAGACACT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 A-AGTTCTCGCTGGGGCCGGTGACAGACGACAACAGGGGCCTTTATCGTTGCCGGATACT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 A-AG---------------------------------------- ----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 ATAGTTATACCTATTATAATTG-------------GAGGGTTTGGTAATTGACTTGTTCC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 ATAGTTATACCTATTATAATTG-------------GAGGGTTTGGTAATTGACTTGTTCC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 ATAGTTATACCTATTATAATTG-------------GAGGGTTTGGTAATTGACTTGTTCC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 ATAGTTATACCTATTATAATTG-------------GAGGGTTTGGTAATTGACTTGTTCC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                     * **                                                        </font></font><font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 GACGTCAGGACATGGCTGGAGCTCCCTGAGCG-------CCCCAGCGGAGGTGACGGGAA</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 GATGTTTGAAAACACCTGGACCTCCCCGAGTG-------AACCAGTGGAGGGTGACAGGCA</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -ATATAGAAGAC-----</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 ACT-------TATAATTGGAGCTCCTGATATAGCATTCCCACGAATAAACAATATAAGCT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 ACT-------TATAATCGGAGCTCCTGATATAGCATTCCCACGAATAAACAATATAAGCT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 ACT-------TATAATTGGAGCTCCTGATATAGCATTCCCACGAATAAACAATATAAGCT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 ACT-------TATAATTGGAGCTCCTGATATAGCATTCCCACGAATAAACAATATAAGCT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                                                                     * *      </font></font><font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 AAGAGCCTCTCCCTGCCCCCCTCGCTGCGGGCTGAGCCTGGACCTTGGATCCTCCGTGGTG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 AAGAGCCTCTCCCTGCCCCCCTTGCTACGGGCTGATCCTGGACCTTGGATCCTCCATGGCC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 TCTGACTTCTTCCTCCGTCATTCCTA----------TTATTATTAGCATCCTCTACCAT-</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 TCTGACTTCTTCCTCCGTCATTCCTA----------TTATTATTAGCATCCTCTACCAT-</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 TCTGACTTCTTCCTCCGTCATTCCTA----------CTACTACTAGCATCCTCTACTAT-</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 TCTGACTTCTTCCTCCGTCATTCCTA----------CTACTACTAGCATCCTCTACTAT-</font></font><font></font>
+                                                                                                 <font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 TGGAGACCAAGCTGTACTGCCGAGGGGTGCTGATGGGCATGATCTTTGACCTGTACCAAG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 TGGAAACCAAGCTGCACTGCCAAGGGGTGCTTCTGGGCATGATCTTTGACCTGTACCAGG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- ---------GCAGCAGG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 ------------------------------------------- --------TGAAGCAGG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 ------------------------------------------- --------TGAAGCAGG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 ------------------------------------------- --------TGAAGCAGG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 ------------------------------------------- --------TGAAGCAGG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                                                                         * * ** *</font></font><font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 AAGGAGAGCAGGAGCCCGTGAAGAGTTCCCAGACACCAGGAACAGAAGCCACCTTCATCG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 AAGGAGAGCAGGAGCCCGTGAGGAGCTCCCACACACCAGGCACAGAAGCCACCTTCATTG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 AGCCGGAGTAGGAGCAGATATGGA------------------------------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 AGCCGGAACAGGATGAACAGTATATCCACCACTTGCTGGAAACTTAGCTCAT--------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 AGCCGGAACAGGATGAACAGTATATCCACCACTTGCTGGAAACTTAGCTCAT--------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 AGCCGGAACAGGATGAACAGTATATCCACCACTTGCTGGCAACTTAGCCCAT--------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 AGCCGGAACAGGATGAACAGTATATCCACCACTTGCTGGCAACTTAGCCCAT--------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                     * ** **** *                                    </font></font><font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 TCAACAGTACTGGGAATTACAGCTGCCTCTACCAAGCACCCGCACCAGTTCCCAGTGTGA</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 TCAACAATACCGGGAACTACAGCTGCCTCTACCGAGCACCTGCGCCAGCTTCCAGTGTGA</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 ---------GCAGGCGCTTCAGTCGACCTAGCTATCTTTCCCCCTTCATCTAGCAG-GTAT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 ---------GCAGGCGCTTCAGTCGACCTAGCTATCTTTCCCCCTTCATCTAGCAG-GTAT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 ---------GCAGGCGCTTCAGTTGACCTAGCCATCTTCTCCCTTCATCTAGCAG-GTAT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 ---------GCAGGCGCTTCAGTTGACCTAGCCATCTTCTCCCTTCATCTAGCAG-GTAT</font></font><font></font>
+                                                                                                 <font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 ATTCAACGCCCAGTGAGATCATACACGTTGTGATACCAGACTTCCTGCCAAAGGCCAACA</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 ATTCAGCACCCAGTGAGACCATACACGTTGTGATACCAGACTTACTCCCAAAGCCTGACT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------CGCCGAAGGAGACG------------------------------------ ----</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 TTCTTCTATTTTTAGGAGCCATCAATTTTATTACTACTATTATTAATATAAAAC-------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 TTCTTCTATTTTTAGGAGCCATCAATTTTATTACTACTATTATTAATATAAAAC-------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 TTCTTCTATTTTTAGGAGCCATCAATTTTATTACTACTATTATTAATATAAAAC-------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 TTCTTCTATTTTTAGGAGCCATCAATTTTATTACTACTATTATTAATATAAAAC-------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                                   ***                                           </font></font><font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 TCTATATTTTGAACAAACGAAACTTCAGGCCTGGAGACAGTGTGAGTTTTAGCTGCCAGG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 TCCATATTTACGACAACCAAGTCATCAGGCCTGGAGACTCCGTGACATTTGGCTGCTGGG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 -------------CAGCCGTAGTAGGAGGAGGAGAAGCA------------------GGA</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 -------------CACCCGCAATATCACAATACCAAACTCCCCTA--TTCGTCTGATCAG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 -------------CACCCGCAATATCACAATACCAAACTCCCCTA--TTCGTCTGATCAG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 -------------CACCCGCAATATCACAATACCAAACTCCCCTA--TTCGTCTGATCAG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 -------------CACCCGCAATATCACAATACCAAACTCCCCTA--TTCGTCTGATCAG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                                  ** * * * *                      </font></font><font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 CGAGATTCTCTGAGCGGGAATATGATCTGGAATTCAAGCTGTTCAAAGACGGACAGGAGA</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 GGAGATTCTC------------TGGCCTGGAATTCAAGCTGTTCAAAGACGGACAGGAGG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 GGAGAA--------------------------------------GAAGAAGGAGAGGA--</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 TAATAATCAC--AGCAGTATTACTCCTTTTATCCCTTCCTGTTCTAGCC---GCAGGAAT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 TAATAATCAC--AGCAGTATTACTCCTTTTATCCCTTCCTGTTCTAGCC---GCAGGAAT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 TAATAATCAC--AGCAGTATTACTCCTTTTATCCCTTCCTGTTCTAGCC---GCAGGAAT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 TAATAATCAC--AGCAGTATTACTACTTTTATCCCTTCCTGTTCTAGCC---GCAGGAAT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                       * * * ****  </font></font><font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 CGCCTGCA--GAAGTGGTGCTTATATCGAACCCAATGGAAGTATTCTTGGAACTGGAAGC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 TGTTTGTACCCAAGCAGTCTTCAAA--GGACCCCAAGCACATATATTTCGAACTGACAGC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 TACTO------------------------------------------ --------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 TACTO------------------------------------------ --------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 TACTO------------------------------------------ --------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 TACTO------------------------------------------ --------------</font></font><font></font>
+                                                                                                 <font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 CGTTGGCCCTGAGGATGGGGGCAAGTACAGCTGCAGGTACCGCTTTAGCAATGGGCCTCC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 CCTGGGCCCTGAGGATGGGGGCAAGTACAGCTGCAGGTACCGCTTTAGGAATGGGCCGCC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 -----------AGG--AGAGGCAGAGGGTACCACAGGAGATCTCCT----------CATC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 -----------ATGCTATTAACAGATCGTAATTTAAATACTACTTT----------CTTT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 -----------ATGCTATTAACAGATCGTAATTTAAATACTACTTT----------CTTT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 -----------ATGCTATTAACAGATCGTAATTTAAATACTACTTT----------CTTT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 -----------ATGCTATTAACAGATCGTAATTTAAATACTACTTT----------CTTT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                                * * ** * * *   </font></font><font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 GATCTGTCAGAAGACAGTAACGTCGTGGAGCTGGTCGTGAGT-----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 AATCTGGTCAGAAGACAGTAAGCAACTGGAGCTGGTCCTGACTACAGAGACATTAGCCAA</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 GTCGTCGTAGGAGAAGAAGAAG-----------------------------------------------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 GACCCTGCTGGAGGAGGAGACCCAATT---------------------------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 GACCCTGCTGGAGGAGGAGACCCAATT---------------------------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 GACCCTGCTGGGGGAGGAGACCCAATT---------------------------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 GATCCTGCTGGAGGAGGAGACCCAATT---------------------------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+                                           * * * *                                        </font></font><font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 GCCTTCCCTGTCTGTTGAGCCCCAGGAGACTGTGATTTCTCGAGGAACCAAGGTGACCAT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 ------------------------------------------- -----------------</font></font><font></font>
+                                                                                                 <font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 GCGTTGCCAGGGGGCCCAGCCCAATGTGAAATTCGTCCTGCTGAAGAAAGGCTCACCTGG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 ------------------------------------------- -----------------</font></font><font></font>
+                                                                                                 <font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 GCACACGTTGGTGCTGAGCTCTCCCGAGTCCCATGTTGACTTTGTCCTGCCAAACATCCT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 ------------------------------------------- -----------------</font></font><font></font>
+                                                                                                 <font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 GAGCTACGACACTGGCAATTTCAGCTGCCTTTATGTTCAAACAGAGGCCCCGTTTGCTGG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 ------------------------------------------- -----------------</font></font><font></font>
+                                                                                                 <font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 CTCCCAAAGGAGTGAGGATGTGGAGATCCGAGTGGAAGGCCTTCTCCCCAAGCCCACGCT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 ------------------------------------------- -----------------</font></font><font></font>
+                                                                                                 <font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 GCATCCTGTGCACCCTGTTGTGGCCCCCGGGAGGGATGCAATCCTGCACTGTTCAGGAAA</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 ------------------------------------------- -----------------</font></font><font></font>
+                                                                                                 <font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 GATCCCGAATGCCCACTTCCAGCTCTTCAAAGATGGAGAACATGAAGAGCTGGAAGTCAG</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 ------------------------------------------- -----------------</font></font><font></font>
+                                                                                                 <font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 TGTTTTGCCCATTGATGACCATGCTGTAAACTTCCTCTTGAAGAATATCAATCGCCAGCA</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 ------------------------------------------- -----------------</font></font><font></font>
+                                                                                                 <font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 GGGGGGCAAGTACAGGTGCCGCTATACCACCAGGGAGGATCCCATCTTGGAGTCAGAGAT</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 ------------------------------------------- -----------------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 ------------------------------------------- -----------------</font></font><font></font>
+                                                                                                 <font></font>
+<font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY163806.1_cds_AAN64698.1_1 -------------------------ACAGGCCAGTGA------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|AY078384.1_cds_AAL82794.1_1 GAGTGACCCTGCAGAGCTTCAGGTGACAGGCCAGTGA------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|L17007.1_cds_AAA02812.1_1 ---------------------------------ATAA------</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451902.1_cds_ADW78964.1_1 -------------------------CTATACCAACACCTATTC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451901.1_cds_ADW78963.1_1 -------------------------CTATACCAACACCTATTC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|MG828824.1_cds_AYN80161.1_1 -------------------------CTATACCAACACTTATTC</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+lcl|HQ451903.1_cds_ADW78965.1_1 -------------------------CTATACCAACACTTATTC</font></font><font></font>
+                                                                                <font></font>
+</pre> 
+      <p id="note"></p> 
+     </div>
+    </section> 
+   </div> 
+  </div>
+  <!-- div close of content--> 
+  <footer> 
+   <!-- Optional local footer (insert citation / project-specific copyright / etc here --> 
+   <!--
+<div id="local-footer" class="grid_24 clearfix">
+			  <p>How to reference this page: ...</p>
+		</div>
+--> 
+   <!-- End optional local footer --> 
+   <div id="global-footer" class="grid_24"> 
+    <nav id="global-nav-expanded" class="row"><div class="columns small-6 medium-2 ">  <a href="https://www.ebi.ac.uk/" title="EMBL-EBI"><span class="ebi-logo"></span></a>  <ul>  </ul>  </div>   <div class="columns small-6 medium-2 ">  <h5 class="services"><a class="services-color" href="https://www.ebi.ac.uk/services"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Servicios</font></font></a></h5>  <ul>  <li class="first"><a href="https://www.ebi.ac.uk/services"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Por tema</font></font></a></li>  <li><a href="https://www.ebi.ac.uk/services/all"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Por nombre (AZ)</font></font></a></li>  <li><a href="https://www.ebi.ac.uk/support"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Servicio de asistencia</font></font></a></li>  <li class="last"><a href="https://www.ebi.ac.uk/licencing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Licencia</font></font></a></li>  </ul>  </div>   <div class="columns small-6 medium-2 ">  <h5 class="research"><a class="research-color" href="https://www.ebi.ac.uk/research"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Investigación</font></font></a></h5>  <ul>  <li><a href="https://www.ebi.ac.uk/research/publications"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Publicaciones</font></font></a></li>  <li><a href="https://www.ebi.ac.uk/research/groups"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Grupos de investigación</font></font></a></li>  <li class="last"><a href="https://www.ebi.ac.uk/research/postdocs"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Postdoctorados</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> y </font></font><a href="https://www.ebi.ac.uk/research/eipp"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">doctorados</font></font></a></li>  </ul>  </div>   <div class="columns small-6 medium-2 ">  <h5 class="training"><a class="training-color" href="https://www.ebi.ac.uk/training"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Capacitación</font></font></a></h5>  <ul>  <li><a href="https://www.ebi.ac.uk/training/live-events"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">entrenamiento en vivo</font></font></a></li>  <li><a href="https://www.ebi.ac.uk/training/on-demand"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Formación a la carta</font></font></a></li>  <li><a href="https://www.ebi.ac.uk/training/trainer-support"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Apoyo a los entrenadores</font></font></a></li>  <li><a href="https://www.ebi.ac.uk/training/contact-us"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contactar a los organizadores</font></font></a></li>  </ul>  </div>   <div class="columns small-6 medium-2 ">  <h5 class="industry"><a class="industry-color" href="https://www.ebi.ac.uk/industry"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Industria</font></font></a></h5>  <ul>  <li><a href="https://www.ebi.ac.uk/industry/private/members-area/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Área de miembros</font></font></a></li>  <li class="last"><a href="https://www.ebi.ac.uk/industry/contact-us"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Póngase en contacto con el equipo de la industria</font></font></a></li>  </ul>  </div>   <div class="columns small-6 medium-2 ">  <h5 class="about"><a class="ebi-color" href="https://www.ebi.ac.uk/about"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Acerca de EMBL-EBI</font></font></a></h5>  <ul>  <li><a href="https://www.ebi.ac.uk/about/contact"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Contáctenos</font></font></a>  </li><li><a href="https://www.ebi.ac.uk/about/events"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Eventos</font></font></a></li>  <li><a href="https://www.ebi.ac.uk/about/jobs" title="Trabajos, postdoctorados, doctorados..."><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Trabajos</font></font></a></li>  <li class="first"><a href="https://www.ebi.ac.uk/about/news"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Noticias</font></font></a></li>  <li><a href="https://www.ebi.ac.uk/about/people"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Personas y grupos</font></font></a></li>  </ul>  </div></nav> 
+    <section id="ebi-footer-meta" class="row"><div class="columns"><p class="address"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EMBL-EBI, Campus Wellcome Genome, Hinxton, Cambridgeshire, CB10 1SD, Reino Unido. </font><font style="vertical-align: inherit;">+44 (0)1223 49 44 44</font></font></p> <p class="legal"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Copyright © EMBL 2022 | </font><font style="vertical-align: inherit;">EMBL-EBI forma </font></font><a href="http://www.embl.org/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">parte del Laboratorio Europeo de Biología Molecular</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> | </font></font><a href="https://www.ebi.ac.uk/about/terms-of-use"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Condiciones de uso</font></font></a><a class="readmore float-right" href="http://intranet.ebi.ac.uk/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">intranet</font></font></a></p></div></section> 
+   </div> 
+  </footer> 
+  <!-- JavaScript at the bottom for fast page loading --> 
+  <script type="text/javascript" src="./alineación_files/jquery-1.9.1.min.js.descarga"></script> 
+  <script defer="defer" src="./alineación_files/cookiebanner.js.descarga"></script> 
+  <script defer="defer" src="./alineación_files/foot.js.descarga"></script> 
+  <script defer="defer" src="./alineación_files/script.js.descarga"></script> 
+  <!-- The Foundation theme JavaScript --> 
+  <script src="./alineación_files/foundation.js.descarga"></script> 
+  <script src="./alineación_files/foundationExtendEBI.js.descarga"></script> 
+  <script type="text/JavaScript">$(document).foundation();</script> 
+  <script type="text/JavaScript">$(document).foundationExtendEBI();</script><style id="dynamic-stuck-height" type="text/css"> div#local-masthead.sticky.is-stuck{ margin-top: -161px !important;} </style> 
+  <link rel="stylesheet" href="./alineación_files/jquery-confirm.min.css">
+  <link href="./alineación_files/jdispatcher-common.css" rel="stylesheet" type="text/css"> 
+  <link href="./alineación_files/jdispatcher-results.css" rel="stylesheet" type="text/css"> 
+  <link href="./alineación_files/aa-colors.css" rel="stylesheet" type="text/css"> 
+  <script src="./alineación_files/jquery-confirm.min.js.descarga"></script> 
+  <script>
+  if ($.trim( $('#leftsidecontent').text() ) == "")
+	    $('#leftsidecontent').remove();
+  </script> 
+  <script>
+    var isChangedSeq = false;
+	function resetInput() {	
+		$("textarea#sequence").val("");
+		$("textarea#asequence").val("");
+		$("textarea#bsequence").val("");
+		isChangedSeq = false;
+	}
+	
+	$(document).ready(function(){
+      
+		$("#exampleSeq").click(function(e){
+			e.preventDefault();
+			if ("spp" == getRequiredSeqType()) {
+				$("textarea#asequence").val(sequenceProteinA);
+				$("textarea#bsequence").val(sequenceProteinB);
+			} else if ("spd" == getRequiredSeqType()) {
+				$("textarea#asequence").val(sequenceDNAA);
+				$("textarea#bsequence").val(sequenceDNAB);
+			} else if ("ssx" == getRequiredSeqType() ) {
+				$("textarea#asequence").val(ssp);
+				$("textarea#bsequence").val(ssd);
+			} else {
+				$("textarea#sequence").val(eval(getRequiredSeqType()));	
+			}
+			isChangedSeq = false;
+			
+		});
+		
+		$("#seeMoreExample").click(function(e){
+			e.preventDefault();
+			window.open(getSequenceSampleUrl());
+		});
+	
+		$("#exampleSeqTest").change(function(){		
+			$("textarea#sequence").val(eval($("#exampleSeqTest").val()));
+		});
+		
+		$("#clearSequence").click(function(e){
+			e.preventDefault();
+			
+			if (isChangedSeq == false) {
+				resetInput();
+				return;
+			}
+			
+			$.confirm({
+				title: 'Clear Sequence',
+				content: 'The input was changed. \n It is going to be clear. ',
+				buttons: {
+					confirm: function () {
+						//$.alert('Confirmed!');
+						resetInput();
+					},
+					cancel: function () {
+						//$.alert('Canceled!');
+					},
+					somethingElse: {
+						text: 'See more example sequences',
+						btnClass: 'btn-blue',
+						keys: ['enter', 'shift'],
+						action: function(){
+							window.open(getSequenceSampleUrl()); 
+						}
+					}
+				}
+			});
+        });
+
+		
+		$("textarea#sequence").change(function(){
+			isChangedSeq = true;
+		});
+
+		$("textarea#asequence").change(function(){
+			isChangedSeq = true;
+		});
+
+		$("textarea#bsequence").change(function(){
+			isChangedSeq = true;
+		});
+
+	});	
+	
+  </script> 
+  <script defer="defer" src="./alineación_files/jquery.tablesorter.min.js.descarga" type="text/javascript"></script> 
+  <script defer="defer" src="./alineación_files/jquery.tablesorter.widgets.min.js.descarga" type="text/javascript"></script> 
+  <script src="./alineación_files/msa-alignments.js.descarga" type="text/javascript"></script> 
+  <script src="./alineación_files/msa-summary.js.descarga" type="text/javascript"></script> 
+  <script src="./alineación_files/jquery.tipsy.js.descarga" type="text/javascript"></script> 
+  <script src="./alineación_files/Biojs.js.descarga" type="text/javascript"></script> 
+  <script src="./alineación_files/d3.v3.min.js.descarga" type="text/javascript"></script> 
+  <script src="./alineación_files/Biojs.Tree_b.js.descarga" type="text/javascript"></script> 
+  <script src="./alineación_files/tree_functions_b.js.descarga" type="text/javascript"></script> 
+  <script src="./alineación_files/newick_b.js.descarga" type="text/javascript"></script> 
+  <script src="./alineación_files/visualBiojsTree.js.descarga" type="text/javascript"></script> 
+  <script src="./alineación_files/svg-crowbar.js.descarga" type="text/javascript"></script> 
+  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you want to support IE 6.
+       chromium.org/developers/how-tos/chrome-frame-getting-started --> 
+  <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->   
+ 
+<!--//ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.1/js/cookiebanner.js automatically inserted--><script type="text/javascript" src="./alineación_files/cookiebanner.js(1).descarga"></script><!--//ebi.emblstatic.net/web_guidelines/EBI-Framework/v1.1/js/script.js automatically inserted--><script type="text/javascript" src="./alineación_files/script.js(1).descarga"></script><!--//www.ebi.ac.uk/web_guidelines/js/downtime.js?457176 automatically inserted--><script type="text/javascript" src="./alineación_files/downtime.js.descarga"></script><div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="./alineación_files/translate_24dp.png" width="20" height="20" alt="Google Traductor de Google"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Texto original</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Sugiere una traducción mejor</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div><div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div><div id="data-protection-banner" class="data-protection-banner" style="position: fixed; background: rgb(17, 17, 17); width: 100%; padding: 0.75rem 1%; left: 0px; bottom: 0px; color: rgb(238, 238, 238); z-index: 10; display: block;"><div class="row"><div class="columns medium-8 large-9 white-color"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Este sitio web requiere cookies y el procesamiento limitado de sus datos personales para funcionar. </font><font style="vertical-align: inherit;">Al usar el sitio, usted acepta esto como se describe en nuestro </font></font><a target="_blank" href="https://www.ebi.ac.uk/data-protection/privacy-notice/embl-ebi-public-website"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Aviso de privacidad</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> y </font></font><a target="_blank" href="https://www.ebi.ac.uk/about/terms-of-use"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Términos de uso</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> .</font></font></div><div class="columns medium-4 large-3 text-right white-color"><a id="data-protection-agree" class=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Acepto, descartar este banner</font></font></a></div></div></div></body></html>
