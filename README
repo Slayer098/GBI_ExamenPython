@@ -1,0 +1,21 @@
+# Datos personales
+- Nombre: Mariana Elizabeth Silva Moreta
+- Edad: 23 
+- Direccion: Tena, plan de salud
+Cedula: 1550056228
+# Caracteristicas del computador
+- Nombre del dispositivo: DESKTOP-FPM77DB
+- Procesador: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz   1.19 GHz
+- RAM  instalada: 8,00 GB (7,77 GB utilizable)
+- Tipo de sistema: Sistema operativo de 64 bits, procesador x64
+# Versio de python y anaconda
+- python: version 3
+- anaconda: anaconda3
+# Modulos/paquete utilzados
+Explicacion de la data
+- Pubmed-EcuadorGen-set: informacion de los distintos autores
+- Sequence.txt: contiene nucleotidos para el arbol
+- Aineacion: esta alineacion fue hecha en muscle
+- Link: https://www.ebi.ac.uk/Tools/msa/muscle/
+
+
